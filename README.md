@@ -1,6 +1,10 @@
 Tanks
 =====
 
+Run in Processing
+-----------------
+
+Simply open and run the sketch in Processing.
 
 
 Run in your browser
